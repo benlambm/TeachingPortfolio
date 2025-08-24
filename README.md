@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="BenLamb.png" alt="Ben Lamb" width="250" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <br>
+  <i>Assistant Professor, Information Technology, Brightpoint Community College</i>
   
   <br><br>
   
