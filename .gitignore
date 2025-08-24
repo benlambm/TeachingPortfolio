@@ -1,0 +1,28 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Office temp files
+~$*
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Log files
+*.log
+
+# Private or sensitive files
+*.private
+*.secret
+private/
+secrets/
