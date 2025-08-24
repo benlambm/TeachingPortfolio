@@ -26,11 +26,11 @@ I am a passionate educator with a unique blend of academic rigor and industry ex
 - **20+ Industry Certifications** from CompTIA, AWS, Oracle, VMware, and Microsoft
 
 ### Professional Experience
-- **Adjunct Faculty** - Virginia Community College System (VCCS)
-  - Currently teaching at multiple VCCS institutions
-  - Courses: ITP 140 (Client Operating Systems), ITP 220 (Network Operating Systems)
+- **IT Faculty** - Virginia Community College System (VCCS)
+  - Currently Assistant Professor of Information Technology at Brightpoint Community College
+  - Courses taught: ITN101, ITP120, ITD130, ITP140, ITE140, ITE152, ITP220, CSC223, ITP246 
 - **Previous Instructor** - Virginia Western Community College, Roanoke
-  - Taught IT and Computer Science courses
+  - Fully remote/asynchronous IT and Computer Science courses with high student evaluations
   - Delivered CS Scholar Lecture on algorithmic foundations of AI/ML and implications for teaching programming
 - **Industry Experience**
   - IT Consulting in cloud and cybersecurity for Fortune 500 enterprises
