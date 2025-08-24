@@ -1,0 +1,82 @@
+# Jekyll Configuration for GitHub Pages
+# Theme: Cayman
+
+# Site Settings
+title: Benjamin M. Lamb, PhD - Teaching Portfolio
+description: Professional Teaching Portfolio showcasing experience in Information Technology and Computer Science education at Virginia Community College System
+author: Benjamin M. Lamb, PhD
+email: benjaminmlamb@icloud.com
+
+# Theme
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+
+# GitHub Pages Settings
+github:
+  repository_name: TeachingPortfolio
+  repository_url: https://github.com/benlambm/TeachingPortfolio
+  owner_name: benlambm
+  owner_url: https://github.com/benlambm
+
+# Social Links (for theme)
+linkedin_username: benlambm
+github_username: benlambm
+
+# Build Settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+# SEO Settings
+twitter:
+  card: summary
+logo: /BenLamb.png
+social:
+  name: Benjamin M. Lamb, PhD
+  links:
+    - https://www.linkedin.com/in/benlambm/
+    - https://github.com/benlambm
+
+# Google Analytics (optional - add your tracking ID if you have one)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Exclude from build
+exclude:
+  - README.md.backup
+  - '*.docx'
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Include specific files
+include:
+  - '*.pdf'
+  - '*.png'
+  - '*.jpg'
+
+# Default settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Navigation (if you want to add custom navigation later)
+# navigation:
+#   - title: Home
+#     url: /
+#   - title: 2025 Materials
+#     url: /2025/
+#   - title: 2024 Materials
+#     url: /2024/
